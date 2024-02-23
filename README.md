@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend Development, MERN...**
 
-- 📫 How to reach me **anandmohit744@gmail.com**
+- 📫 How to reach me  [Mohit Anand](https://mohit-anand-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
