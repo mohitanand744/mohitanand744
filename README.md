@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Website Development**
 
-- 👨‍💻 All of my projects are available at [https://mohit-anand-portfolio.netlify.app/](https://mohit-anand-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://mohit-anand-portfolio.netlify.app/)
 
 - 💬 Ask me about **Frontend Development, MERN...**
 
