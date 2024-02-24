@@ -1,3 +1,4 @@
+![logo](https://github.com/mohitanand744/mohitanand744/blob/main/Github.gif)
 <h1 align="center">Hi 👋, I'm Mohit Anand</h1>
 <h3 align="center">Software Developer (Freelancer) | Intern at BazaarNxt as a Web Developer | Team Work Makes The Dream Work.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Gif">
