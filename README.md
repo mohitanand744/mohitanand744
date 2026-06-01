@@ -1,13 +1,11 @@
 ![logo](https://github.com/mohitanand744/mohitanand744/blob/main/Github.gif)
 <h1 align="center">Hi 👋, I'm Mohit Anand</h1>
-<h3 align="center">Software Developer (Freelancer) | Intern at BazaarNxt as a Web Developer | Team Work Makes The Dream Work.</h3>
+<h3 align="center">Full Stack Developer (Frontend-Focused) | AI-Assisted Development • Scalable SaaS Applications • React/Next, Node.js, MySQL • Scalable Backend Architecture & Modern Development Workflows</h3>
 <img align="right" width="400" src="https://i.pinimg.com/564x/d6/e2/2d/d6e22dab955fb3013dada007ad4c7e73.jpg" alt="Coding Gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitanand744&label=Profile%20views&color=0e75b6&style=flat" alt="mohitanand744" /> </p>
 
 - 🔭 I’m currently working on my portfolio [Mohit Anand](https://mohit-anand-portfolio.netlify.app/)
-
-- 🌱 I’m currently learning **Website Development**
 
 - 👨‍💻 All of my projects are available at  [Portfolio](https://mohit-anand-portfolio.netlify.app/)
 
